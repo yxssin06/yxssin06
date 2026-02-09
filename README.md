@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm a computer science student with at the University of Toronto. I build full stack web applications using JavaScript, TypeScript, React, and Node.js, and I enjoy turning ideas into simple, working products.
+I'm a computer science student at the University of Toronto. I build full stack web applications using JavaScript, TypeScript, React, and Node.js, and I enjoy turning ideas into simple, working products.
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [yassinshaheen777@gmail.com](mailto:yassinshaheen777@gmail.com)
